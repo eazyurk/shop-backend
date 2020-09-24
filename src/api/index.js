@@ -12,4 +12,4 @@ router.get('/', (req, res) => {
 
 router.use('/user', user);
 
-module.exports = user;
+module.exports = router;
