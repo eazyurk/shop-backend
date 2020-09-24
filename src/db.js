@@ -1,9 +1,11 @@
 const knex = require('knex');
 const { Model } = require('objection');
-const knexConfig = require('../knexfile');
-const environment = 'development';
 
+const knexConfig = require('../knexfile');
+
+const environment = 'development';
 const connectionConfig = knexConfig[environment];
+
 const connection = knex(connectionConfig);
 
 Model.knex(connection);

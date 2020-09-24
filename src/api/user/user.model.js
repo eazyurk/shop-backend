@@ -8,10 +8,6 @@ class User extends Model {
     static get idColumn() {
         return 'user_id';
     }
-
-    static get fullName() {
-        return this.firstName + ' ' + this.lastName;
-    }
 }
 
 module.exports = User;
