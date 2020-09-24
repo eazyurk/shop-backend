@@ -3,11 +3,12 @@
 My start for a shopping backend
 
 ## Database schema
-![Dataase schema](dbschema.png)
+![Database schema](dbschema.png)
 
 ## Todo
 
 * [x] Make database schema
-* [ ] Create database
+* [x] Create database
 * [ ] Setup api routes
-* [ ] Setup knex
+* [x] Setup knex
+ * [x] Make migrations
