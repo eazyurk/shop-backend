@@ -22,3 +22,4 @@ My start for a shopping backend
   * [x] Make migrations
 * [ ] Create custom validation for [objection.js](https://vincit.github.io/objection.js/) models with [JOI](https://github.com/sideway/joi)
 * [ ] add authentication with JWT
+* [ ] use typescript
