@@ -7,6 +7,7 @@ const app = express();
 
 const middlewares = require('./middlewares');
 const api = require('./api');
+const db = require('./db');
 
 app.use(morgan('tiny'));
 app.use(compression());

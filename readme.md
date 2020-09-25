@@ -12,3 +12,5 @@ My start for a shopping backend
 * [ ] Setup api routes
 * [x] Setup knex
  * [x] Make migrations
+* [ ] Create custom validation for objection.js models with JOI
+* [ ] add authentication with JWT
