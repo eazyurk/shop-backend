@@ -8,6 +8,7 @@ My start for a shopping backend
 3. run ```docker-compose up```
 4. rename ```.env.dist``` to ```.env``` and input correct values (be sure that the database exists)
 5. run ```npx knex migrate:latest```
+6. run ```yarn dev``` and the server will be running
 
 ## Database schema
 ![Database schema](dbschema.png)
