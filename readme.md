@@ -16,6 +16,7 @@ My start for a shopping backend
 ## Todo
 
 * [x] Make database schema
+  * [ ] Create address table and remove address parts from user
 * [x] Create database
 * [ ] Setup api routes
 * [x] Setup knex
