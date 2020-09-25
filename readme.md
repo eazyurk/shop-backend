@@ -12,5 +12,5 @@ My start for a shopping backend
 * [ ] Setup api routes
 * [x] Setup knex
  * [x] Make migrations
-* [ ] Create custom validation for objection.js models with JOI
+* [ ] Create custom validation for [objection.js](https://vincit.github.io/objection.js/) models with [JOI](https://github.com/sideway/joi)
 * [ ] add authentication with JWT
